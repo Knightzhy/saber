@@ -101,7 +101,7 @@ int main()
 
     process(result);
 
-//    print_files(result);
+    print_files(result);
 
     return 0;   
 }

@@ -10,6 +10,7 @@
 #include "types.h"
 
 std::vector<file_info> readFileList(const char *basePath);
+std::vector<std::string> readFileDirent(const char *basePath);
 
 #endif
 
